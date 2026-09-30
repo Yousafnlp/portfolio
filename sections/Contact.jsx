@@ -15,11 +15,11 @@ const Contact = () => {
         >
           <p className="text-neutral-500">Email</p>
           <a
-            href="mailto:yousaf.dev.web@gmail.com"
+            href="mailto:yousafijazoffical@gmail.com"
             className="inline-flex items-center gap-2 px-6 py-3 border border-white/10 rounded-full text-sm sm:text-base text-white/80 hover:bg-white/5 hover:border-white/20 transition-all duration-300"
           >
             <FiMail />
-            yousaf.dev.web@gmail.com
+            yousafijazoffical@gmail.com
           </a>
           <div className="flex items-center gap-6">
             {socialLinks.map((item) => (
