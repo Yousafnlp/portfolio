@@ -28,10 +28,9 @@ const LaptopNavbar = () => {
             className="size-32 rounded-full"
           />
           <h3 className="text-[#55e6a5] text-xl font-semibold ">
-            2 Years of Experience
+            3 Years of Experience
           </h3>
-          <div>
-          </div>
+          <div></div>
         </div>
         <div className="space-y-4">
           {menuItems.map((item, index) => (

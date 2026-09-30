@@ -21,7 +21,7 @@ const Introduction = () => {
         />
       </div>
 
-      <span className="chip mb-5">2 Years of Experience</span>
+      <span className="chip mb-5">3 Years of Experience</span>
 
       <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-5">
         <span className="block glass-text">Hi, I&apos;m</span>
